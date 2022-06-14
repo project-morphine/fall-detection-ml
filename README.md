@@ -6,4 +6,4 @@ Recent Updates:
 ML code to create decision tree, used as thresholds to determine a fall
 
 Future Updates:
-Another code to convert decision to C++ for prototype code
+Another code to convert decision tree to C++ for prototype code
